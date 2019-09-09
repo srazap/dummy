@@ -1,0 +1,8 @@
+[
+{
+"message":"this is test message",
+"part1":{
+"secret":"this is secrete part of the message and it won't appear as is"
+}
+}
+]
