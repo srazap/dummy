@@ -1,25 +1,27 @@
 {
-  "messages": [
-    {
-      "id":1,
-      "message": "this is test message 1",
-      "part1": {
-        "secret": "this is secrete part of the message and it won't appear as is"
+  "body": {
+    "messages": [
+      {
+        "id": 1,
+        "message": "this is test message 1",
+        "part1": {
+          "secret": "this is secrete part of the message and it won't appear as is"
+        }
+      },
+      {
+        "id": 2,
+        "message": "this is test message 2",
+        "part1": {
+          "secret": "this is secrete part of the message and it won't appear as is"
+        }
+      },
+      {
+        "id": 3,
+        "message": "this is test message 3",
+        "part1": {
+          "secret": "this is secrete part of the message and it won't appear as is"
+        }
       }
-    },
-    {
-      "id":2,
-      "message": "this is test message 2",
-      "part1": {
-        "secret": "this is secrete part of the message and it won't appear as is"
-      }
-    },
-    {
-      "id":3,
-      "message": "this is test message 3",
-      "part1": {
-        "secret": "this is secrete part of the message and it won't appear as is"
-      }
-    }
-  ]
+    ]
+  }
 }
